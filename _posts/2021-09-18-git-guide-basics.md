@@ -1,7 +1,7 @@
 ---
 title: Git指南-基础篇
 date: 2021-09-18 14:14:43 +/-TTT
-categories: [Git]
+categories: [Tech, Git]
 tags: [git]
 ---
 

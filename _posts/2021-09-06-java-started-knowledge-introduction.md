@@ -2,7 +2,7 @@
 title: Java入门知识讲解
 date: 2021-09-06 22:12:25 +/-TTT
 categories: [Tech, Java]
-tags: [Java]
+tags: [java]
 ---
 
 > 前言：本次入门教程专为21级红岩移动Android开发部学员所写，希望能帮助你快速入门。

@@ -1,8 +1,8 @@
 ---
-title: 观影记录汇总
+title: Movies Record
 date: 2021-12-12 24:00:00 +/=TTT
-categories: [Life]
-tags: [movies, books]
+categories: [Record, Movies]
+tags: [movies, record]
 ---
 
 # Movies
